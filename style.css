@@ -3,7 +3,11 @@
 body {
 	background:black;
 }
-	
+
+#titleplease {
+	color: rgb(186, 133, 9);
+	padding: 0px 70px 70px 70px;
+	text-align: center;
 
 .subtitle {
 	color:rgb(200, 148, 30);
