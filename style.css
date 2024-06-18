@@ -1,5 +1,4 @@
 
-
 body {
 	background:black;
 }
@@ -11,12 +10,12 @@ body {
 
 }
 .subtitle {
-	color:rgb(13, 103, 157);
-}
+	color: rgb(13, 103, 157);
 
 
 #container {
 	background-color: rgba(13, 103, 157, 0.4);
+
 	margin: 10px;
 	height: 300px;
 	display: flex;
