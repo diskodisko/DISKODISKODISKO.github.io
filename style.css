@@ -1,21 +1,21 @@
 
 body {
-	background:rgba(13, 224, 200, 0.3);
+	background:black;
 }
-	
-#titleplease{
+
+#titleplease {
 	color: rgb(255, 255, 255);
 	padding: 0px 70px 70px 70px;
 	text-align: center;
+
 }
-c
 .subtitle {
 	color: rgb(13, 103, 157);
-}
 
 
 #container {
-	background-color: rgba(13, 103, 157, 0.5);
+	background-color: rgba(13, 103, 157, 0.4);
+
 	margin: 10px;
 	height: 300px;
 	display: flex;
