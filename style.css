@@ -11,12 +11,12 @@ body {
 
 }
 .subtitle {
-	color:rgb(200, 148, 30);
+	color:rgb(13, 103, 157);
 }
 
 
 #container {
-	background-color: rgba(13, 224, 200,0.4);
+	background-color: rgba(13, 103, 157, 0.4);
 	margin: 10px;
 	height: 300px;
 	display: flex;
